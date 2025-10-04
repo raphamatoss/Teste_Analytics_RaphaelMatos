@@ -39,3 +39,8 @@ jupyter notebook
 2. Copiar o conteúdo do arquivo ```schema_sql.sql``` para a área Schema SQL.
 3. Copiar o conteúdo do arquivo ```consultas_sql.sql``` para a área Query SQL.
 4. Clicar em "Run".
+   
+O seu site deverá ficar da seguinte forma: 
+
+<img width="1656" height="848" alt="image" src="https://github.com/user-attachments/assets/3283edd1-460e-4f12-9f7a-a91688353ba1" />
+
